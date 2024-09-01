@@ -1,16 +1,8 @@
 # Core libraries
 watchdog
-SpeechRecognition
-pydub
-llama-cpp-python
-watchdog
-transformers
 torch
-sentencepiece
 ollama
-pocketsphinx
 whisperx
-pyinstaller
 
 # FFmpeg is required for pydub to work with various audio formats
 # Install it separately using your system's package manager
